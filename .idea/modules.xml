@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IosNBasic.iml" filepath="$PROJECT_DIR$/.idea/modules/IosNBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IosNBasic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IosNBasic_main.iml" group="IosNBasic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IosNBasic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IosNBasic_test.iml" group="IosNBasic" />
+    </modules>
+  </component>
+</project>
