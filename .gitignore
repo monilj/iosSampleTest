@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+out/test/classes/Steps/
+out/test/classes/pages/
+src/main/
+src/test/resources/
